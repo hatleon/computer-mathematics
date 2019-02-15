@@ -1,6 +1,36 @@
 # computer-mathematics 深度学习之数学实战
 
-深度学习的数学基础
+（1）（中文版）深度学习之数学实战
+贝叶斯网引论-- 凸优化-- 深度学习花书-- The Matrix Cookbook
+
+我的百度网盘-- （数学）机器学习-- 数学知识大全 凸优化中文版
+
+D:\desktop\work\数学\凸优化
+https://github.com/xinan711456/computer-mathematics
+
+The Matrix Cookbook(译)
+https://blog.csdn.net/wancongconghao/article/details/71156104
+
+（花书）有什么深度学习数学基础书推荐？
+https://www.zhihu.com/question/41459109/answer/202188958
+
+（美国课程）机器学习应补充哪些数学基础？
+https://www.zhihu.com/question/24345119/answer/564893704
+
+本文为巡洋舰的深度学习实战课程数学预科准备。
+你需要的深度学习数学基础： 从入门到进阶
+https://zhuanlan.zhihu.com/p/31295279
+
+（matrix cookbook 比较全，比较好）深度学习的数学基础
+https://github.com/NLPpupil/mathematical_foundation
+
+（深入很好）深度学习需要掌握哪些数学基础？
+https://www.zhihu.com/question/64940506/answer/263807063
+
+现在机器学习工业界和学术界的差别越来越大了吗？尽早实习和踏实科研各有什么利弊？
+https://www.zhihu.com/question/63883029/answer/579269917
+
+（2）深度学习的数学基础
 深度学习用到的数学主要有概率与统计、线性代数和微积分，还有少量信息论和凸优化的内容。 下面详细介绍各部分和推荐相应学习资料，推荐的课件已经下载好了，但是推荐的书籍还要自己找资源（不能公开分享盗版书籍）。
 
 概率与统计
